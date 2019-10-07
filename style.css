@@ -1,0 +1,104 @@
+body {
+  margin-top: 135px;
+}
+
+p {
+  line-height: 27px;
+}
+
+#navbar {
+  top: 0;
+  position: relative;
+  width: 100%;
+}
+
+#info{
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+#vendors {
+  margin-top: 30px;
+}
+
+#vendors .content {
+  align-items: center;
+  display: flex;
+  padding: 30px;
+}
+
+#planning {
+  height: 400px;
+}
+
+.clearing.segment {
+  border: none;
+  box-shadow: none;
+  background-color: #f9f9f9;
+}
+
+.basic.segment {
+  padding: 0;
+}
+
+.grey-background {
+  background-color: #f9f9f9;
+  height: 695px;
+}
+
+.dark-grey-background {
+  background-color: #333333;
+  height: 359px;
+}
+
+.segment-info {
+  margin-left: 50px;
+}
+
+.segment-left {
+  float: left;
+}
+
+.ui.borderless.menu .item:hover {
+  background-color: #f9f9f9;
+}
+
+.ui.borderless.footer.menu {
+  background-color: #333333;
+  box-shadow: none;;
+  border: none;
+}
+
+.ui.borderless.footer.menu .item:hover {
+  background-color: #333333;
+}
+
+.ui.borderless.footer.menu .item {
+  color: white;
+}
+
+.bottom .ui.borderless.footer.menu .item {
+  color: #d7d7d7;
+}
+
+.ui.main.container {
+  padding: 0 110px;
+  margin: 0 46px;
+}
+
+#footer{
+  padding: 30px 0 60px 0;
+}
+
+.ui.inverted.borderless.menu {
+  background-color: #333333;
+  box-shadow: none;
+  border: none;
+}
+.ui.inverted.borderless.menu .item:hover{
+  background-color: #333333;
+}
+
+.ui.header {
+  margin:0;
+}
